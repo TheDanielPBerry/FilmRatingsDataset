@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Berry"
+  given-names: "Daniel"
+title: "Film Rating Survey Research for CPSC 8740"
+version: 1.0.0
+date-released: 2024-10-16
+url: "https://github.com/TheDanielPBerry/FilmRatingsDataset"
