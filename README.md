@@ -3,9 +3,9 @@ A collection of ratings from theoretical users of a Movie Viewing Website.
 
 ## Survey Details
 - A list of 100 popular films from the last century was used to generate survey question set.  
-- Each survey taker was given a random sample of 70 films from the 100.  
-- Only 50 of the 70 were required for a successful submission.  
-- Final population size was | survey takers.
+- Each survey taker was given a random sample of 70 films to rate from the 100.  
+- Only 50 of the 70 ratings were required for a successful submission.  
+- Final population size was 27 survey takers.
 - Results are anonymous
 
 ### Ratings
@@ -17,6 +17,7 @@ The ratings are indexed from 0-3
 3 = Disliked
 ```
 *Popularity can be calculated by sorting on the average rating for each movie.*
+
 
 ## Citation
 If planning to publish this dataset as part of any research, please use the appropriate citation data from [CITATION.cff](CITATION.cff) or from the "Cite this repository" link on the right-hand side of the main repo page.   
